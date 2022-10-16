@@ -1,0 +1,15 @@
+https://marketplace.visualstudio.com/items?itemName=dsznajder.es7-react-js-snippets
+rafc
+https://stackoverflow.com/questions/68653611/rafce-react-js-shortcut-not-working-in-vscode
+
+
+https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag
+https://stackoverflow.com/questions/36628833/select-matching-element-rename-html-tag-in-visual-studio-code
+
+
+https://code.visualstudio.com/docs/languages/html
+
+
+to be continued
+https://www.youtube.com/watch?v=fzxEECHnsvU&ab_channel=LamaDev
+33:14
